@@ -1,0 +1,24 @@
+openai
+pinecone-client
+langchain
+langchain-community
+unstructured
+unstructured[pdf]
+unstructured[docx]
+# tesseract-ocr
+# pytesseract
+langchain-openai
+h5py
+typing-extensions
+wheel
+chromadb
+langchain_experimental
+wikipedia
+numexpr
+PyMuPDF
+streamlit
+google-generativeai
+PyPDF2
+pypdf
+langchain-core
+python-dotenv
